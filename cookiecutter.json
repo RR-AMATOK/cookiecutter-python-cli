@@ -3,14 +3,10 @@
   "description": "Behold my PRIMORDIAL_PAWN!",
   "author_name": "AMATOK",
   "author_github_handle": "RR-AMATOK",
-  "domain_name": "SAGE_PET.com",
   "version": "0.1.0",
   "open_source_license": [
     "MIT",
     "Clear BSD"
-  ],
-  "username_type": [
-    "username"
   ],
   "timezone": "CST",
   "editor": [

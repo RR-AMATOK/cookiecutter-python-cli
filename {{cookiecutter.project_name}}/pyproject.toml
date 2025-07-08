@@ -1,0 +1,22 @@
+[project]
+name = "{{cookiecutter.project_name}}"
+version = "{{cookiecutter.version}}"
+description = "{{cookiecutter.author_name}}"
+authors = [
+    {name = "{{cookiecutter.author_name}}"}
+]
+license = {text = "{{cookiecutter.open_source_license}}"}
+readme = "README.md"
+requires-python = ">=3.13"
+classifiers = [
+  "Environment :: Console",
+  "Intended Audience :: Developers",
+  "License :: OSI Approved :: {{cookiecutter.open_source_license}} License",
+  "Natural Language :: English",
+  "Programming Language :: Python",
+  "Programming Language :: Python :: 3 :: Only",
+]
+dependencies = [
+  "cookiecutter==2.6",
+]
+urls = { Repository = "https://github.com/{{cookiecutter.author_github_handle}}/{{cookiecutter.project_name}}" }

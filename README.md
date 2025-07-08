@@ -10,7 +10,7 @@ Install [Cookiecutter] and run the cookiecutter template:
 
 ```no-highlight
 $ pip install cookiecutter
-$ cookiecutter https://github.com/RR-AMATOK/cookiecutter-python-gui
+$ cookiecutter https://github.com/RR-AMATOK/cookiecutter-python-cli
 ```
 
 Cookiecutter prompts you for information regarding your plugin:

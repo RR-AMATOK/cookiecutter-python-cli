@@ -5,16 +5,16 @@
   "author_github_handle": "RR-AMATOK",
   "version": "0.1.0",
   "open_source_license": [
-    "MIT",
-    "Clear BSD"
+    "Clear BSD",
+    "MIT"
   ],
   "timezone": "CST",
   "editor": [
-    "None",
-    "VS Code"
+    "VS Code",
+    "None"
   ],
   "ci_tool": [
-    "None",
-    "Github"
+    "Github",
+    "None"
   ]
 }

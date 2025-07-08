@@ -38,7 +38,8 @@ Here is the structure of the files:
 project-name/
 ├── LICENSE
 ├── README.md
-├── pyproject.toml
+├── _test_
+│   └── test.py
 ├── data
 │   └── data.json
 ├── docs
@@ -50,6 +51,7 @@ project-name/
 │   └── test_main.py
 ├── utilities
 │   └── __init__.py
+├── pyproject.toml
 └── .gitignore
 ```
 
